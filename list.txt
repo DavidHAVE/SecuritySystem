@@ -1,0 +1,19 @@
+NodeMCU 100.000
+PIR 30.000 * 3  90.000
+IR Obstacle Sensor 35.000 * 3 115.000
+Relay single channel 17.000
+Buzzer 4.000 * 2 8.000
+Lampu 1  13.000
+Fitting + steker 20.000
+
+Kabel Jumper Female-Female 15  20.000
+Kabel Listrik  6.000
+
+Sub Total 389.000
+
+Biaya Pembuatan
+460.000
+
+Total 849.000
+
+o.e6l3ARpGH0blHgP6fnieU30GBmZfyxO3

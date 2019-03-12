@@ -1,0 +1,8 @@
+Wemos ESP8266
+PIR 30.000 * 3
+IR Obstacle Sensor * 3
+Relay single channel
+Buzzer
+Lampu LED 3 watt
+
+Wifi Router TPLINK MR3020
